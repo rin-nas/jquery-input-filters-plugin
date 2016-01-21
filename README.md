@@ -1,5 +1,7 @@
 # jQuery Input filters (multiple) plugin
 
+Позволяет фильтровать ввод в текстовые поля ввода и даёт ввести только разрешённые символы.
+
 #Демо
 
 http://jsfiddle.net/9rmf1Ljy/33/
