@@ -1,6 +1,5 @@
 /**
  * jQuery Input filters (multiple) plugin
- * http://jsfiddle.net/9rmf1Ljy/33/
  * @copyright Rinat Mukhtarov, rin-nas@ya.ru
  * @version 2.4
  */
