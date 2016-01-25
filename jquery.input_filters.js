@@ -1,5 +1,6 @@
 /**
  * jQuery Input filters (multiple) plugin
+ * @link https://github.com/rin-nas/jquery-input-filters-plugin/
  * @copyright Rinat Mukhtarov, rin-nas@ya.ru
  * @version 2.4
  */
